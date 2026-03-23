@@ -1,0 +1,3 @@
+# OU 2526 HK2 - AI / Data (Module 2)
+numpy>=1.24.0
+pandas>=2.0.0

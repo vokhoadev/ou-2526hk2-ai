@@ -1,0 +1,3 @@
+Dòng 1: Xin chào Python
+Dòng 2: File I/O với encoding UTF-8
+Dòng 3: Tham chiếu Module 01 - Bài 6
