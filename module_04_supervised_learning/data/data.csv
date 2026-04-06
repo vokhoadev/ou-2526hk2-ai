@@ -1,0 +1,55 @@
+﻿id,age,salary,years_experience,city,education,gender,department,satisfaction,num_projects,hire_date,churn
+1,25.0,50000.0,17.0,HANOI,Master,Male,Sales,High,,,1
+2,49.0,57000.0,17.0, hcmc ,Master,,IT,High,1.0,2023-10-15,0
+3,45.0,59000.0,17.0,Danang,bachelor,Male,HR,Medium,1.0,2021-05-27,0
+4,37.0,28000.0,14.0,Can Tho,BACHELOR,Female,HR,High,5.0,2021-11-19,0
+5,37.0,63000.0,10.0,Hue, high school ,Female,Sales,Low,11.0,2021-10-23,1
+6,52.0,35000.0,15.0,Can Tho,,M,IT,Low,6.0,02/02/2022,0
+7,25.0,77000.0,,,Bachelor,F,HR,High,10.0,2023-01-18,0
+8,47.0,,17.0,Danang,Bachelor,Female,IT,med,2.0,,0
+9,29.0,89000.0,,Danang,Bachelor,Male,Operations,HIGH,2.0,2021-08-17,0
+10,25.0,77000.0,10.0,Hue,Bachelor,Male, it ,Medium,10.0,2021-09-25,0
+11,,50000.0,11.0,HCMC,Bachelor,Female,SALES,Medium,2.0,24/01/2021,0
+12,57.0,92000.0,12.0,,Master,Female,HR,High,1.0,,0
+13,48.0,53000.0,0.0,HCMC,Master,Female,IT,Medium,5.0,2021-06-04,0
+14,49.0,47000.0,3.0,Hanoi,,Femal,IT,Medium,11.0,2023-10-22,0
+15,47.0,88000.0,5.0,Hanoi,Bachelor,Male,Sales,Medium,8.0,,0
+16,50.0,,2.0,Hanoi,Master,Male,Operations,Medium,,06/01/2023,0
+17,40.0,,9.0,Can Tho,Bachelor,Male,IT,Medium,10.0,2021-08-25,0
+18,26.0,57000.0,14.0,Can Tho,Master,Female,IT,High,10.0,2021-01-01,0
+19,52.0,80000.0,14.0,,High School,Female,HR,Medium,9.0,2021-01-23,0
+20,,38000.0,10.0,Danang,Bachelor,Male,Operations,Medium,10.0,2022-12-22,0
+21,120.0,57000.0,18.0,Can Tho,,Male,Sales,Medium,3.0,27/03/2021,0
+22,16.0,34000.0,12.0,Hanoi,Bachelor,Female,IT,High,11.0,,0
+23,28.0,2500000.0,1.0,Hue,Bachelor,Male,IT,,,,1
+24,55.0,9000.0,16.0,,High School,Female,IT,Low,9.0,2023-03-02,0
+25,50.0,48000.0,12.0,Hue,High School,Female,IT,Low,99.0,2023-10-27,1
+26,45.0,,48.0,Hanoi,Bachelor,Male,HR,Medium,9.0,26/02/2023,0
+27,36.0,64000.0,12.0,Danang,Bachelor,Male,IT,Low,7.0,2023-09-23,1
+28,51.0,71000.0,12.0,Can Tho,PhD,Female,Sales,High,8.0,2023-06-02,0
+29,41.0,90000.0,,Danang,Bachelor,,HR,Medium,7.0,,1
+30,,55000.0,12.0,Danang,Bachelor,Male,Sales,Low,9.0,2022-03-04,0
+7,38.0,36000.0,17.0,Hanoi,Bachelor,Female,IT,High,9.0,04/09/2022,0
+32,30.0,83000.0,6.0,HCMC,High School,Female,HR,Low,2.0,2022-09-15,0
+33,25.0,69000.0,13.0,HCMC,PhD,Female,HR,Medium,10.0,2022-02-23,0
+34,,74000.0,0.0,,Bachelor,Male,HR,Low,6.0,,0
+35,,31000.0,7.0,Can Tho,Master,,IT,Low,4.0,2022-02-22,0
+36,24.0,46000.0,,Can Tho,High School,Female,IT,Low,6.0,20/01/2021,1
+37,52.0,78000.0,21.0,Can Tho,Bachelor,Male,Operations,,11.0,2021-04-03,0
+38,,83000.0,4.0,HCMC,Bachelor,Male,Sales,Low,10.0,2023-07-27,1
+39,31.0,55000.0,6.0,Hue,PhD,Female,IT,Low,10.0,2023-08-14,0
+40,44.0,81000.0,8.0,Hanoi,Bachelor,Male,Sales,Medium,6.0,2021-01-17,1
+41,27.0,83000.0,21.0,HCMC,Bachelor,Male,HR,Medium,9.0,01/01/2021,0
+42,49.0,52000.0,18.0,Hanoi,Bachelor,Male,Operations,Medium,5.0,2023-06-20,0
+43,47.0,87000.0,0.0,HCMC,Bachelor,Female,IT,,8.0,,0
+44,34.0,45000.0,5.0,Hue,,Female,Operations,Medium,8.0,2022-03-11,0
+45,,41000.0,18.0,HCMC,Bachelor,Male,IT,High,3.0,,0
+46,56.0,72000.0,1.0,Hue,,Female,Sales,High,3.0,03/10/2021,0
+47,38.0,69000.0,18.0,Danang,Master,Male,Sales,Low,1.0,2022-12-16,1
+48,54.0,34000.0,6.0,Can Tho,Master,Female,IT,Low,2.0,2022-07-22,0
+49,46.0,,20.0,Danang,High School,Female,IT,Medium,5.0,2021-08-24,0
+50,50.0,,,HCMC,Bachelor,Female,Sales,Medium,6.0,,1
+51,49.0,81000.0,9.0,Can Tho,High School,Male,Operations,Medium,,16/06/2021,1
+52,,,14.0,,Master,,Sales,Medium,5.0,2021-12-15,1
+999,35.0,60000.0,8.0,Hue,Bachelor,Male,IT,Medium,4.0,2021-06-01,0
+999,35.0,60000.0,8.0,Hue,Bachelor,Male,IT,Medium,4.0,2021-06-01,0
